@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Paddy
-- 👀 I’m interested in flying & programming drones
-- 🌱 I’m currently learning c++ & python 
-- 💞️ I’m looking to collaborate on Betaflight 
-- 📫 How to reach me ...
+- 👀 I´m a professional cinematographer & photographer
+- 🌱 I’m a full stack developer
+- 💞️ I’m looking to collaborate on the Betaflight project
+- 📫 https://reyvprdctn.de
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
